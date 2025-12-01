@@ -1,2 +1,2 @@
-# aula-git-introdu-o
+# aula-git-introdução
 9x^2-36=0
